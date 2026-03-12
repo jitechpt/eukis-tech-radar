@@ -1,4 +1,4 @@
-# EUKIS Technology Radar
+# TRASAKI Technology Radar
 
 ## Adopt
 

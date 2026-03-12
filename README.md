@@ -1,1 +1,1 @@
-# eukis-tech-radar
+# trasaki-tech-radar
